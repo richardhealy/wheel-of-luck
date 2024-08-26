@@ -1,0 +1,11 @@
+{
+  "name": "wheel-of-luck",
+  "version": "1.0.0",
+  "description": "Wheel of Luck game with React frontend and Fastify backend",
+  "scripts": {
+    "dev": "pnpm -r run dev"
+  },
+  "keywords": ["react", "fastify", "wheel of luck"],
+  "author": "Richard Fernandez",
+  "license": "MIT"
+}
